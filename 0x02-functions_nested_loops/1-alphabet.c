@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main - Alphbets
+ * print_alphabet - Alphbets
  * Description: void print_alphabet(void);
  * Return: Always 0 (Success)
  */
