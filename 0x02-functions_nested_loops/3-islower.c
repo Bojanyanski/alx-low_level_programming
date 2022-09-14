@@ -2,6 +2,7 @@
 
 /**
  * _islower: lower alphabets
+ * @c: c is an ASCII character
  *
  * Return: Always 0 (Success)
  */
