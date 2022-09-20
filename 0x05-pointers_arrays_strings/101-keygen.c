@@ -1,4 +1,7 @@
 #include "main.h"
+#include <stdlib.h>
+#include <time.h>
+
 
 /**
  * main - generates keygen.
